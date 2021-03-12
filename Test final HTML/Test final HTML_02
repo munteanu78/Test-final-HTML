@@ -1,0 +1,21 @@
+<!--  
+   (8) dupa blue se pune ;
+
+   (13) <title> se scrie mai sus de <style>
+
+   (13)  In <title> nu se foloseste <br>
+    
+   (18-19) Microformatele sunt adaugate corect dar in loc de <h2> as scri <h1>    si  invers
+ 
+   Eu as schimba fonul la <body> deoarece coincid culorile cu stilul h1{ color: red;} si  atuci nu se vede textul 
+       
+   Imaginea se va afisa in dimensiunea de 200px pe latime
+
+ <strong> vs <b>   este aceeasi dar, nu chiar. Elementul <strong> este pentru conținutul
+    care are o importanță mai mare,  în timp ce elementul <b> este utilizat pentru a atrage  atenția asupra textului fără a indica faptul că este mai important.
+     
+    Elementul semantic pentru lista ar fi mai potrivit <ol> - lista ordonata       
+    
+    Fundalul liste se va colora in verde deorece ( id="images ul" class="menu" )
+    ultimul stil are prioritate   .menu{ background-color: green; }  
+--> 
